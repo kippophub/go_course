@@ -1,3 +1,3 @@
-module github.com/kippophub/go-course
+module temperaturesolution
 
 go 1.22.12
